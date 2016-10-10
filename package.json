@@ -1,6 +1,6 @@
 {
   "name": "date-changer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[honeo/date-changer](https://github.com/honeo/date-changer)  \r [date-changer](https://www.npmjs.com/package/date-changer)",
   "main": "index.js",
   "scripts": {

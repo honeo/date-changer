@@ -13,7 +13,7 @@ $ npm i -S date-changer
 import dateChanger from 'date-changer';
 
 // 現在から1日戻って3時間進んだDateインスタンスを取得
-const date_after1d3h = dateChanger({
+const date_before1d_after3h = dateChanger({
 	date: -1,
 	hour: 3
 });
