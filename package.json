@@ -1,0 +1,35 @@
+{
+  "name": "date-changer",
+  "version": "1.0.0",
+  "description": "[honeo/date-changer](https://github.com/honeo/date-changer)  \r [date-changer](https://www.npmjs.com/package/date-changer)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "honeo",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "date",
+    "change"
+  ],
+  "dependencies": {
+    "@honeo/type-check": "^2.0.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-core": "^6.17.0",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honeo/date-changer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/honeo/date-changer/issues"
+  },
+  "homepage": "https://github.com/honeo/date-changer#readme"
+}
